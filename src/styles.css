@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+img {
+  width: 40px;
+  height: 40px;
+}
+
+tr,
+td {
+  background: #ffffff;
+  mix-blend-mode: normal;
+  box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.06);
+  border-radius: 0px;
+}
